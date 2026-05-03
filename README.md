@@ -4,8 +4,8 @@
 
 Enterprise-scale data warehouse implementation for ABC Electronics, integrating traditional SQL Server dimensional modeling with modern Hadoop/HDFS big data processing. This project demonstrates end-to-end data warehousing capabilities including star schema design, ETL processes, and distributed computing for inventory management analytics.
 
-**Student:** Yagnesh Vaghashiya (25002034)  
-**Course:** CS7079 Data Warehousing and Big Data  
+**Student:** Yagnesh Vaghashiya  
+**Course:** Data Warehousing and Big Data  
 **Institution:** London Metropolitan University  
 **Supervisor:** Dr. Cheima Ali Bensaad  
 **Academic Period:** 2025-2026
@@ -599,10 +599,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 ## 📞 Contact
 
 **Yagnesh Vaghashiya**  
-Student ID: 25002034  
-London Metropolitan University  
-Course: CS7079 Data Warehousing and Big Data
-
+Maild id: yagneshvaghashiya602@gmail.com
+Mobile Number: +44 7887 172884
 **Supervisor:** Dr. Cheima Ali Bensaad
 
 ---
